@@ -19,7 +19,7 @@ Other platforms (including the Editor) have not been tested and/or may not work!
 ## Installation
 Copy this url: 
 
-```https://github.com/itisnajim/SocketIOUnity.git```
+```https://github.com/Sunshine-wzy/SocketIOUnity.git```
 then in Unity open Window -> Package Manager -> and click (+) add package from git URL... and paste it there.
 
 
